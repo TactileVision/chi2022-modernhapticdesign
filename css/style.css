@@ -52,6 +52,30 @@
   margin-bottom: 5px;
 }
 
+#speakers .organizer {
+  padding: 15px;
+}
+
+#speakers .organizer img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#speakers .organizer .details{
+  margin-top: 7px;
+  text-align: center;
+}
+
+#speakers .organizer .details p{
+  font-size: 13px;
+}
+
+#speakers .organizer .details h3{
+  margin-bottom: 5px;
+}
+
 /* .rounded-circle{
 border:1px solid;
 border-radius:50%;
