@@ -89,6 +89,12 @@ height:200px;
   }
 }
 
+@media (max-width:560px) {
+  #schedule .table{
+    font-size: 5px;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # General
