@@ -10,6 +10,14 @@
 # Custom style
 --------------------------------------------------------------*/
 
+#workshop-details{
+  margin: 30px auto;
+}
+
+.about-details{
+  text-align: justify;
+}
+
 .margin-adjust{
   margin: 0 22%;
 }
