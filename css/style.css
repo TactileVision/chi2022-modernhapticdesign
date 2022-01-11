@@ -10,6 +10,44 @@
 # Custom style
 --------------------------------------------------------------*/
 
+ul.about-details{
+  list-style-type: none;
+}
+
+#apply-cfp.apply-btn {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 18px 45px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #f82249;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #f82249;
+  display: table;
+  margin: 0 auto;
+}
+
+#cfp .details{
+  margin-bottom: 24px;
+}
+
+#apply-cfp.apply-btn:hover {
+  background: #f82249;
+  color: #fff;
+}
+
+
+.need-confirmation{
+  font-size: 14px;
+  color: #f82249;
+}
+
 #workshop-details{
   margin: 30px auto;
 }
@@ -410,7 +448,7 @@ h6 {
   margin-left: 8px;
   margin-top: 2px;
   line-height: 1;
-  font-size: 13px;
+  font-size: 19px;
 }
 
 .nav-menu li.buy-tickets a:hover {
