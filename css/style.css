@@ -74,6 +74,14 @@ ul.about-details{
   color: #f82249;
 }
 
+.color-gray{
+  color: #808080;
+}
+
+.disabled-link {
+  cursor: pointer;
+}
+
 #sponsors .organizer {
   padding: 15px;
 }
